@@ -10,20 +10,8 @@ line or two; the detail belongs in the theme/design files.
 
 ## Queue
 
-### Science
-- [ ] "17 equations that changed the world" — one shirt per equation; clean
-      typeset equation + one-line "why it mattered." Source: Business Insider
-      summary of Ian Stewart's *17 Equations that Changed the World*.
-- [ ] Emergence diagram — concept diagram as the hero artwork, two foundational
-      equations small along the bottom. (Inspired by an emergence explainer
-      video; artwork must be original.)
-- [ ] Chemistry apparatus series — illustrated, named glassware/instruments;
-      stretch: reconstruct complete historical setups behind real discoveries.
-- [ ] "Attributes of a profession" series — iconic tools per discipline
-      (Chemistry: flasks/test tubes; Physics: TBD; ...).
-- [ ] "Heritage" series — faithful renditions of important historical diagrams.
-- [ ] Interesting numbers & paradoxes — e.g. 1/89 encoding Fibonacci; famous
-      paradoxes. Collect and vet more.
+<!-- Science section struck 2026-06-23 — covered by themes/science.md and
+     designs/17-equations-overview/brief.md -->
 
 ### ScienceX (adult / innuendo sub-line — tasteful, equation-driven)
 - [ ] Viscosity — the word + fitting visual + relevant equations.

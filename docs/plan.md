@@ -16,11 +16,6 @@ Active tasks only. Maintained by agents. Owner reads but does not edit — use
 
 ## Backlog
 
-- [ ] Write `themes/science.md` — flesh out the Science family (17 equations,
-      emergence diagram, chemistry apparatus, profession attributes, Heritage,
-      interesting numbers/paradoxes) with sub-ideas and sourced curiosities.
-- [ ] Build the first concrete concept: `designs/17-equations-overview/` — pick
-      the launch equation, draft copy, plan the typeset render, cite the source.
 - [ ] Prototype `scripts/` equation-typesetting helper (LaTeX/Matplotlib → clean
       transparent PNG/SVG) and a fractal renderer; document usage.
 - [ ] Write `themes/public-domain-space.md` — verify the H. G. Wells / W. R.

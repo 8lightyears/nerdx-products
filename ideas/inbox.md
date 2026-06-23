@@ -31,8 +31,9 @@ line or two; the detail belongs in the theme/design files.
 - [ ] "My wedding" — couple at the altar, Eye of Sauron over the spouse.
 
 ### Public-domain space / sci-fi / inventions / forgotten beliefs
-- [ ] H. G. Wells, *The Things that Live on Mars* (Cosmopolitan, 1908), art by
-      William Robinson Leigh — verify PD status, catalogue usable plates.
+
+<!-- H.G. Wells / W.R. Leigh item covered by themes/public-domain-space.md (2026-06-23) -->
+
 - [ ] Historical depictions of the Pleiades across cultures (seek CC/PD sources).
 - [ ] Speculative-evolution PD illustrations of imagined alien life.
 - [ ] Sci-fi alien-species gallery as a reference pool (check each license).

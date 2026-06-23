@@ -4,6 +4,24 @@ Completed concepts, theme analyses, and scripts. Newest at top. One entry per
 completed task. Agents must read this in full before queuing new work, to avoid
 re-doing finished concepts.
 
+## 2026-06-23 — Scripts and public-domain space theme
+
+- `scripts/eq_render.py`: equation-to-PNG renderer using Matplotlib mathtext.
+  Accepts any LaTeX/mathtext formula string, outputs transparent PNG at configurable
+  DPI and font size (default: 300 DPI, fontsize 72, white text). No LaTeX install
+  required. Dependency: `pip install matplotlib`.
+- `scripts/fractal_render.py`: Mandelbrot and Julia set renderer using NumPy +
+  Matplotlib. Smooth colouring (continuous escape time), configurable colourmap,
+  resolution, max-iter, and Julia constant. Dependency: `pip install matplotlib numpy`.
+- `themes/public-domain-space.md`: full Public-Domain Space / Sci-Fi theme analysis.
+  Four catalogued asset pools with individual PD verification: (1) H.G. Wells / W.R.
+  Leigh "Things That Live on Mars" four plates (Cosmopolitan 1908, LOC item
+  cosmos000114 — US PD); (2) Trouvelot Astronomical Drawings 1882 (CC0, NYPL
+  download); (3) Flammarion engraving ca. 1888 (US PD, Wikimedia); (4) LOC astronomy
+  archive 15,000+ items. Visual direction, automation notes (ImageMagick commands for
+  halftone removal / white-to-transparent), and t-shirt potential rated per asset.
+  H.G. Wells inbox item struck.
+
 ## 2026-06-23 — Science family analysis + first design concept
 
 - `themes/science.md`: full Science family analysis — 6 sub-ideas (17 equations

@@ -14,7 +14,8 @@ line or two; the detail belongs in the theme/design files.
      designs/17-equations-overview/brief.md -->
 
 ### ScienceX (adult / innuendo sub-line — tasteful, equation-driven)
-- [ ] Viscosity — the word + fitting visual + relevant equations.
+<!-- Viscosity struck 2026-06-24 — covered by designs/viscosity/brief.md -->
+
 - [ ] Body-shaped curve — a plotted function approximating a silhouette.
 - [ ] Rigid body — classical mechanics term + free-body diagram visual. (agent-proposed)
 - [ ] Specific heat capacity — "It takes a lot of energy to get me excited." + formula. (agent-proposed)

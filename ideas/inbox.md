@@ -17,8 +17,8 @@ line or two; the detail belongs in the theme/design files.
 <!-- Viscosity struck 2026-06-24 — covered by designs/viscosity/brief.md -->
 <!-- Body-shaped curve struck 2026-06-24 — covered by designs/body-shaped-curve/brief.md -->
 <!-- Rigid body struck 2026-06-24 — covered by designs/rigid-body/brief.md -->
-- [ ] Specific heat capacity — "It takes a lot of energy to get me excited." + formula. (agent-proposed)
-- [ ] Drag coefficient — "Drag is a function of your shape and velocity." + Cd formula. (agent-proposed)
+<!-- Specific heat capacity struck 2026-06-24 — covered by designs/specific-heat-capacity/brief.md -->
+<!-- Drag coefficient struck 2026-06-24 — covered by designs/drag-coefficient/brief.md -->
 
 ### Ecology
 - [ ] "Environment-saving backlog" — the world's main problems as a dev backlog.

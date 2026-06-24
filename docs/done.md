@@ -4,6 +4,29 @@ Completed concepts, theme analyses, and scripts. Newest at top. One entry per
 completed task. Agents must read this in full before queuing new work, to avoid
 re-doing finished concepts.
 
+## 2026-06-24 — ScienceX Rigid Body design brief
+
+- `designs/rigid-body/brief.md`: full design concept for the Rigid Body ScienceX
+  shirt. Covers three slogan options (τ = Iα + "All forces accounted for" /
+  definition-first with I = ∫r²dm / minimal τ = r × F), verified equations
+  (Newton 1687, Euler 1765 — both PD), Matplotlib free-body diagram generation
+  script (~30 lines: block + force vectors in distinct colours + torque arc),
+  full license note (all equations mathematical facts; diagram is original code
+  output). ScienceX plausible deniability: "rigid body" is a verbatim classical
+  mechanics term.
+
+## 2026-06-24 — ScienceX Body-Shaped Curve design brief
+
+- `designs/body-shaped-curve/brief.md`: full design concept for the Body-Shaped
+  Curve ScienceX shirt. Concept: any closed curve — including a body silhouette —
+  can be represented as a sum of rotating circles (complex Fourier series,
+  Fourier 1822, PD). Three slogan options ("Every figure is a sum of circles" /
+  "Convergent by design" / coefficient equation). Verified equations: z(t) =
+  Σ cₙ e^(2πint) and its inverse. Matplotlib generation script (~25 lines):
+  uses DFT of a polar hourglass curve r = 1 + 0.4·cos(2θ) to produce an N=5
+  epicycle approximation; adjust amplitude to control waist prominence. Full
+  license note (Fourier theory PD; diagram is original code output).
+
 ## 2026-06-24 — ScienceX Viscosity design brief
 
 - `designs/viscosity/brief.md`: full design concept for the Viscosity ScienceX

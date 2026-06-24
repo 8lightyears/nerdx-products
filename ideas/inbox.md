@@ -15,9 +15,8 @@ line or two; the detail belongs in the theme/design files.
 
 ### ScienceX (adult / innuendo sub-line — tasteful, equation-driven)
 <!-- Viscosity struck 2026-06-24 — covered by designs/viscosity/brief.md -->
-
-- [ ] Body-shaped curve — a plotted function approximating a silhouette.
-- [ ] Rigid body — classical mechanics term + free-body diagram visual. (agent-proposed)
+<!-- Body-shaped curve struck 2026-06-24 — covered by designs/body-shaped-curve/brief.md -->
+<!-- Rigid body struck 2026-06-24 — covered by designs/rigid-body/brief.md -->
 - [ ] Specific heat capacity — "It takes a lot of energy to get me excited." + formula. (agent-proposed)
 - [ ] Drag coefficient — "Drag is a function of your shape and velocity." + Cd formula. (agent-proposed)
 

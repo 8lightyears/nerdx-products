@@ -4,6 +4,32 @@ Completed concepts, theme analyses, and scripts. Newest at top. One entry per
 completed task. Agents must read this in full before queuing new work, to avoid
 re-doing finished concepts.
 
+## 2026-06-24 — Idea inbox seeded across all theme groups
+
+Added 28 agent-proposed ideas to `ideas/inbox.md`, distributed across all existing
+and five new theme groups:
+
+- **ScienceX** — 3 additions: Rigid body, Specific heat capacity, Drag coefficient.
+- **Patent drawings** — 4 additions: Tesla AC motor (1888), Wright brothers (1906),
+  Bell telephone (1876), Babbage Difference Engine (PD plates).
+- **Alchemy** — 3 additions: four transformation stages (Nigredo→Rubedo),
+  Paracelsus tria prima, Robert Fludd macrocosm diagram (1617–1621, PD).
+- **Historical curiosities** — 4 additions: Antikythera mechanism, Roman concrete
+  recipe (Masic et al. 2023), Voynich manuscript (Yale Beinecke CC BY-NC 3.0),
+  Damascus steel / carbon nanotubes (Reibold et al. 2006).
+- **History of dreams** — 3 additions: Victorian electrical séances, dreams of a
+  unified theory (Newton→Relativity→QM), perpetual-motion machines (PD pamphlets).
+- **Thought experiments** (new group) — 5 items: Schrödinger's cat, Maxwell's
+  demon, Einstein's elevator, Laplace's demon, Fermi paradox.
+- **Logic and computation** (new group) — 5 items: Turing machine, Halting problem,
+  Gödel's incompleteness, P≠NP, Church-Turing thesis.
+- **Dead and defunct scientific theories** (new group) — 5 items: Luminiferous
+  aether, Phlogiston, Ptolemaic geocentrism, Caloric theory, Spontaneous generation.
+- **Space exploration history** (new group) — 4 items: Tsiolkovsky equation, Sputnik
+  diagram, Voyager Golden Record cover, Apollo trajectory.
+- **Mathematical structures** (new group) — 5 items: Penrose tiling, knot theory,
+  Möbius strip/Klein bottle, tesseract projection, Ulam spiral.
+
 ## 2026-06-23 — Scripts and public-domain space theme
 
 - `scripts/eq_render.py`: equation-to-PNG renderer using Matplotlib mathtext.

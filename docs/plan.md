@@ -16,4 +16,4 @@ Active tasks only. Maintained by agents. Owner reads but does not edit — use
 
 ## Backlog
 
-- [ ] Seed the idea inbox with agent-proposed additions across the theme groups.
+<!-- Nothing in backlog -->

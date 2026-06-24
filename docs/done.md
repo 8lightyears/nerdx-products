@@ -4,6 +4,26 @@ Completed concepts, theme analyses, and scripts. Newest at top. One entry per
 completed task. Agents must read this in full before queuing new work, to avoid
 re-doing finished concepts.
 
+## 2026-06-24 — ScienceX Drag Coefficient design brief
+
+- `designs/drag-coefficient/brief.md`: full design concept for the Drag Coefficient
+  ScienceX shirt. Concept: drag force `F_D = ½ρv²C_D A` — drag is literally a function
+  of shape and velocity. Three slogan options (sentence + equation / equation + defiant
+  punchline / longer humorous tagline). Optional Matplotlib shape-comparison diagram
+  (sphere C_D ≈ 0.47 vs. streamlined body C_D ≈ 0.04). Verified equations from Munson
+  et al. *Fundamentals of Fluid Mechanics* (formula PD, Rayleigh 1876). All visual output
+  is original code-generated artwork; no third-party assets required.
+
+## 2026-06-24 — ScienceX Specific Heat Capacity design brief
+
+- `designs/specific-heat-capacity/brief.md`: full design concept for the Specific Heat
+  Capacity ScienceX shirt. Concept: `c = Q / mΔT` — "It takes a lot of energy to get me
+  excited." Three slogan options (human-readable sentence + equation / equation-first /
+  mock certification badge). Optional material comparison bar chart (water vs. Al vs. Fe).
+  Verified equations from Cengel & Boles *Thermodynamics* (formula PD, measured physical
+  constants). All visual output is original code-generated artwork; no third-party assets
+  required.
+
 ## 2026-06-24 — ScienceX Rigid Body design brief
 
 - `designs/rigid-body/brief.md`: full design concept for the Rigid Body ScienceX

@@ -4,6 +4,18 @@ Completed concepts, theme analyses, and scripts. Newest at top. One entry per
 completed task. Agents must read this in full before queuing new work, to avoid
 re-doing finished concepts.
 
+## 2026-06-24 — ScienceX Viscosity design brief
+
+- `designs/viscosity/brief.md`: full design concept for the Viscosity ScienceX
+  shirt. Covers three slogan options (High Viscosity / Non-Newtonian / η>>0),
+  verified equations in plain text and LaTeX (Newton's law of viscosity τ = η
+  du/dy, kinematic viscosity, Reynolds number), visual direction (Hagen-Poiseuille
+  parabolic flow profile as original code-generated line art), step-by-step
+  generation path using existing `eq_render.py` + a 10-line Matplotlib snippet,
+  and full license note (all equations are mathematical facts; all artwork is
+  original output — no third-party license required). Source: Bird, Stewart,
+  Lightfoot, *Transport Phenomena*, 2nd ed. (2002), §1.1.
+
 ## 2026-06-24 — Idea inbox seeded across all theme groups
 
 Added 28 agent-proposed ideas to `ideas/inbox.md`, distributed across all existing

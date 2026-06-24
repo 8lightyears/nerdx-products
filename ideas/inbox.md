@@ -21,17 +21,16 @@ line or two; the detail belongs in the theme/design files.
 <!-- Drag coefficient struck 2026-06-24 — covered by designs/drag-coefficient/brief.md -->
 
 ### Ecology
-- [ ] "Environment-saving backlog" — the world's main problems as a dev backlog.
-- [ ] "Save the world TODO" / "Optimal CO2 reduction plan" — checklist design
-      (max nuclear; replace ~80% of coal with SMRs; max hydro/solar/wind; keep
-      researching) with a consistent nuclear/solar/wind/hydro/research icon set.
+<!-- Ecology section struck 2026-06-24 — covered by themes/ecology.md -->
+<!-- Environment-saving backlog struck 2026-06-24 -->
+<!-- Save the world TODO / Optimal CO2 reduction plan struck 2026-06-24 -->
 
 ### "My wife is a Witch"
-- [ ] Supplement/vitamin gags — "Honey, your vitamins" / "Darling, your
-      supplements!" + wary-husband variants.
-- [ ] Hydration insistence — "Darling, drink, you mustn't be dehydrated."
-- [ ] "My wife cooking dinner" / "my wife and mother-in-law cooking dinner."
-- [ ] "My wedding" — couple at the altar, Eye of Sauron over the spouse.
+<!-- My wife is a Witch section struck 2026-06-24 — covered by themes/my-wife-is-a-witch.md -->
+<!-- Supplement/vitamin gags struck 2026-06-24 -->
+<!-- Hydration insistence struck 2026-06-24 -->
+<!-- My wife cooking dinner struck 2026-06-24 -->
+<!-- My wedding (Eye of Sauron) struck 2026-06-24 -->
 
 ### Public-domain space / sci-fi / inventions / forgotten beliefs
 

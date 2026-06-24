@@ -1,7 +1,7 @@
 # Project Plan
 
 Active tasks only. Maintained by agents. Owner reads but does not edit — use
-`owner-log/` (or `ideas/inbox.md`) for direction changes.
+`ideas/inbox.md` (or `ideas/inbox.md`) for direction changes.
 
 ## Legend
 ```

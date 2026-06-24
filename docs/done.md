@@ -4,6 +4,32 @@ Completed concepts, theme analyses, and scripts. Newest at top. One entry per
 completed task. Agents must read this in full before queuing new work, to avoid
 re-doing finished concepts.
 
+## 2026-06-24 — "My wife is a Witch" theme group analysis
+
+- `themes/my-wife-is-a-witch.md`: full theme group analysis for the relationship-humor
+  sub-line. Covers four sub-ideas: (1) supplement/vitamin gags with real biochemistry
+  formulas (PubChem, PD); (2) hydration insistence with H₂O physical constants (NIST);
+  (3) wife cooking dinner in two variants — PD alchemical plates relabelled as recipe
+  steps (Libavius 1606/Van Helmont 1648 via HathiTrust, PD) and a "periodic table of
+  dinner ingredients" using real NIST elemental data; (4) "My wedding" dark-eye concept
+  with explicit copyright warning against using Eye of Sauron (Tolkien Estate/New Line)
+  and two safe alternatives (original dark eye or caption-only). Shop-fit assessment:
+  supplements + periodic-table variants are strong (nerdy hook + real data); wedding
+  dark-eye variant is high-risk.
+
+## 2026-06-24 — Ecology theme group analysis
+
+- `themes/ecology.md`: full theme group analysis for the Ecology family. Covers three
+  concepts: (1) "Environment-saving backlog" — world crises as a GitHub Issues board
+  (dark-theme, status labels); includes sourced environmental claims (NOAA ocean
+  acidification, Ceballos et al. sixth extinction, WMO ozone recovery, IEA CO₂ gap);
+  "Ozone layer — Closed ✓" as the punchline. (2) "Optimal CO₂ reduction plan" — a
+  sourced checklist of decarbonisation actions (IPCC AR6, IRENA 2023, IEA NZE 2021,
+  World Nuclear Association); nuclear + renewables as the correct answer, in checkmark
+  form. (3) Three further sub-ideas (1.5°C progress bar, planetary boundaries radar
+  chart, carbon-footprint grocery receipt). All content is original text; all claims
+  are citable facts; no third-party imagery required.
+
 ## 2026-06-24 — ScienceX Drag Coefficient design brief
 
 - `designs/drag-coefficient/brief.md`: full design concept for the Drag Coefficient

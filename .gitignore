@@ -1,0 +1,15 @@
+# Local, full-resolution print output never belongs in the repo.
+/out/
+*-fullres.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -4,6 +4,40 @@ Completed concepts, theme analyses, and scripts. Newest at top. One entry per
 completed task. Agents must read this in full before queuing new work, to avoid
 re-doing finished concepts.
 
+## 2026-06-25 — History of dreams theme group analysis
+
+- `themes/history-of-dreams.md`: full theme group analysis for the History of Dreams
+  family. Covers four sub-ideas: (1) Dreams of robots — the Mechanical Turk (von
+  Kempelen 1770); PD engraving from Windisch 1784; "first AI" punchline. (2) Victorian
+  electrical séances — telegraph era belief that electricity could contact the dead
+  (1848 Fox sisters / Morse 1844 parallel); mock telegram format; Edison 1920 spirit
+  telephone quote. (3) Dreams of understanding everything — timeline of successive
+  "final" theories (Newton 1687 → Maxwell 1865 → Einstein 1915 → Standard Model 1970s
+  → String theory ?); typographic timeline. (4) Perpetual motion machines — Villard
+  de Honnecourt's 1230 overbalanced wheel (BnF Gallica, PD-old-100), Bessler's wheel
+  1712; mock patent label "pending since 1230." Production priority: Mechanical Turk
+  (strongest PD illustration) → Villard wheel → mock telegram → theory-of-everything
+  timeline. Cross-links to Patent Drawings (Mechanical Turk automata), Alchemy
+  (philosopher's stone), and Science (Maxwell/Dirac equations).
+
+## 2026-06-25 — Non-trivial historical curiosities theme group analysis
+
+- `themes/historical-curiosities.md`: full theme group analysis for the Non-Trivial
+  Historical Curiosities family. Covers five sub-ideas: (1) Silphium — the only
+  known plant consumed to extinction; Cyrenean coin (c. 480–435 BC, PD); mock expiry
+  label concept. (2) Antikythera mechanism — 37-gear ancient computer c. 100 BC,
+  1,400 years ahead of its time; gear-train schematic from de Solla Price 1974 /
+  Freeth 2006 (redraw from PD descriptions — do NOT use Athens museum photos).
+  (3) Roman concrete — pozzolana + seawater produces tobermorite crystals that
+  strengthen over time; Masic et al. 2023 *Science*; mock ingredient label with
+  Vitruvius proportions (PD). (4) Voynich manuscript — indecipherable 15th-c. codex;
+  Yale Beinecke CC BY-NC 3.0 scans are NOT commercially usable; use only original
+  line-art interpretation of the diagram structure. (5) Damascus steel — Reibold et
+  al. 2006 *Nature*: multi-wall carbon nanotubes in medieval blade; wavy damask
+  pattern + "accidentally invented nanotubes" caption. Production priority:
+  Antikythera (strongest visual) → Roman concrete (mock ingredient label) → Damascus
+  steel → Silphium → Voynich (license caution).
+
 ## 2026-06-25 — Dead and defunct scientific theories theme group analysis
 
 - `themes/dead-theories.md`: full theme group analysis for the Dead and Defunct

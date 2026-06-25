@@ -49,10 +49,11 @@ line or two; the detail belongs in the theme/design files.
 <!-- Babbage's Difference Engine struck 2026-06-25 -->
 
 ### Alchemy
-- [ ] Alchemical symbols/imagery — old PD plates, or AI prompts; record licenses.
-- [ ] Four stages of transformation — Nigredo → Albedo → Citrinitas → Rubedo rendered as a colour-gradient shirt with Latin labels. (agent-proposed)
-- [ ] Tria prima — Paracelsus's Sulphur / Mercury / Salt triangle; 16th-century symbols, PD. (agent-proposed)
-- [ ] Robert Fludd macrocosm diagram (Utriusque Cosmi, 1617–1621) — ornate concentric-sphere cosmology, pre-1927, PD. (agent-proposed)
+<!-- Alchemy section struck 2026-06-25 — covered by themes/alchemy.md -->
+<!-- Alchemical symbols/imagery struck 2026-06-25 -->
+<!-- Four stages of transformation (Nigredo→Rubedo) struck 2026-06-25 -->
+<!-- Tria prima struck 2026-06-25 -->
+<!-- Robert Fludd macrocosm diagram struck 2026-06-25 -->
 
 ### Non-trivial historical curiosities
 - [ ] One-story-per-shirt obscure facts (e.g. silphium; ancient dated artefacts).
@@ -89,12 +90,12 @@ line or two; the detail belongs in the theme/design files.
 - [ ] Church-Turing thesis — lambda calculus λ alongside Turing machine tape; two routes to the same destination. (agent-proposed)
 
 ### Dead and defunct scientific theories (agent-proposed group)
-Theories that were coherent, seriously held, and beautifully wrong. Each shirt is a memorial to a dead idea.
-- [ ] Luminiferous aether — Michelson-Morley interferometer diagram + "Result: null, 1887"; the experiment that killed it. (agent-proposed)
-- [ ] Phlogiston theory — "Phlogiston is released during combustion" + elegant 18th-c. chemistry diagram; replaced by oxygen theory 1777. (agent-proposed)
-- [ ] Ptolemaic geocentric model — beautiful nested-epicycle diagram from PD sources (e.g. Harmonia Macrocosmica 1661, Andreas Cellarius — PD); visually striking. (agent-proposed)
-- [ ] Caloric theory — heat as an invisible fluid; diagram of caloric flowing between hot and cold bodies; replaced by kinetic theory ~1850. (agent-proposed)
-- [ ] Spontaneous generation — "Life arises from non-living matter" + Pasteur's swan-neck flask that killed the idea, 1859. (agent-proposed)
+<!-- Dead theories section struck 2026-06-25 — covered by themes/dead-theories.md -->
+<!-- Luminiferous aether struck 2026-06-25 -->
+<!-- Phlogiston theory struck 2026-06-25 -->
+<!-- Ptolemaic geocentric model struck 2026-06-25 -->
+<!-- Caloric theory struck 2026-06-25 -->
+<!-- Spontaneous generation struck 2026-06-25 -->
 
 ### Space exploration history (agent-proposed group)
 - [ ] Tsiolkovsky rocket equation — Δv = ve · ln(m0/mf); "The Earth is the cradle of humanity, but one cannot live in the cradle forever." (agent-proposed)

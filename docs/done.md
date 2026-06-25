@@ -4,6 +4,40 @@ Completed concepts, theme analyses, and scripts. Newest at top. One entry per
 completed task. Agents must read this in full before queuing new work, to avoid
 re-doing finished concepts.
 
+## 2026-06-25 — Dead and defunct scientific theories theme group analysis
+
+- `themes/dead-theories.md`: full theme group analysis for the Dead and Defunct
+  Scientific Theories family. Covers five sub-ideas: (1) Luminiferous aether —
+  Michelson-Morley experiment (1887) null result; interferometer diagram from the
+  original paper (PD); shirt copy "Null result, 1887." (2) Phlogiston theory —
+  Stahl 1703, replaced by Lavoisier's oxygen theory 1789; Lavoisier's *Traité
+  Élémentaire* apparatus diagrams (PD, Archive.org). (3) Ptolemaic geocentric model —
+  Andreas Cellarius *Harmonia Macrocosmica* (1661) "Planisphaerii Ptolemaici
+  Scenographia" plate; PD-old-100 on Wikimedia; spectacular as a full-chest shirt or
+  print. (4) Caloric theory — heat as a weightless fluid; Lavoisier included it in his
+  element table 1789; killed by Rumford 1798 and Joule 1843; *Phil. Trans.* paper PD.
+  (5) Spontaneous generation — Pasteur swan-neck flask experiment (1859); *omne vivum
+  ex vivo* as the shirt motto; Pasteur 1861 paper on Gallica, PD. All sources cited
+  with URL and access date; all PD verified. Recommended launch: Ptolemaic diagram
+  (visually spectacular, no redrawing needed), then swan-neck flask (simplest redraw).
+
+## 2026-06-25 — Alchemy theme group analysis
+
+- `themes/alchemy.md`: full theme group analysis for the Alchemy family. Covers four
+  sub-ideas: (1) General alchemical symbols/emblems — planetary-metal glyphs, four
+  classical-element triangles, Paracelsian symbols; *Atalanta Fugiens* (Maier, 1618)
+  on Archive.org as source for PD engravings; clean vector reconstruction requires no
+  license. (2) Four stages of transformation (Magnum Opus) — Nigredo → Albedo →
+  Citrinitas → Rubedo with chemical correlates (CuO, lead oxide reduction, cinnabar);
+  *Splendor Solis* (Trismosin, c. 1582) on Wikimedia (PD); or pure Matplotlib colour
+  gradient, no PD dependency. (3) Tria Prima — Paracelsus (1493–1541): Mercury/Spirit,
+  Sulfur/Soul, Salt/Body; *Philosophia Reformata* (Mylius, 1622) on Archive.org (PD);
+  Unicode alchemical glyphs (U+1F700–U+1F77F) usable in vector form. (4) Robert Fludd
+  macrocosm diagram — *Utriusque Cosmi* (1617) "Integra Naturae" plate; on Archive.org
+  and Wikimedia Commons (PD-old-100); best as print or large mug. All PD sources
+  verified with URL and access date. Recommended launch: Tria Prima triangle (simplest
+  to produce), then Magnum Opus gradient (fully original, zero license concern).
+
 ## 2026-06-25 — Thought experiments theme group analysis
 
 - `themes/thought-experiments.md`: full theme group analysis for the Thought Experiments

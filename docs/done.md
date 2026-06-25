@@ -1,5 +1,38 @@
 # Done log
 
+## 2026-06-25 — History of dreams theme group analysis
+
+- `themes/history-of-dreams.md`: full theme group analysis for the History of Dreams
+  family. Covers four sub-ideas: (1) Mechanical Turk (von Kempelen 1770) — chess-playing
+  "automaton" with a human chess master hidden inside; PD cross-section engraving from
+  Racknitz 1789; punchline: "first AI, powered by a human." (2) Victorian electrical
+  séances — the telegraph (1844) and the Fox sisters' séances (1848) emerged
+  simultaneously; newspapers called it "the spiritual telegraph"; Edison 1920 *Scientific
+  American* interview; mock telegram format as the design. (3) Theory of everything —
+  Newton (1687) → Maxwell (1865) → Einstein (1915) → Standard Model (1970s) → String
+  theory (1980s–, beta); software patch-note format showing each version as STABLE except
+  v5.0 in beta; all equations PD mathematical facts. (4) Perpetual motion machines —
+  Villard de Honnecourt overbalanced wheel sketch c. 1230 (BnF MS Fr 19093, Gallica
+  PD-old-100); mock patent "pending since 1230"; Second Law (Clausius 1850) as the
+  resolution. Recommended launch: perpetual motion (typography-only, zero illustration
+  cost) then theory-of-everything (patch-note format). Cross-theme links to dead-theories.md.
+
+## 2026-06-25 — Non-trivial historical curiosities theme group analysis
+
+- `themes/historical-curiosities.md`: full theme group analysis for the Non-Trivial
+  Historical Curiosities family. Covers five sub-ideas: (1) Silphium — only plant
+  consumed to extinction; Cyrenean coin silhouette (PD); mock expiry-label variant.
+  (2) Antikythera mechanism — 37-gear analogue computer c. 100 BC; gear-train diagram
+  from Freeth et al. 2021 *Scientific Reports* (CC BY 4.0); de Solla Price 1974 (PD);
+  do NOT use Athens museum photographs. (3) Roman concrete — pozzolan + seawater →
+  tobermorite crystals; Masic et al. 2023 *Science Advances*; Vitruvius *De Architectura*
+  Book II (PD); ingredient-label format is zero illustration cost. (4) Voynich manuscript
+  — Yale Beinecke CC BY-NC 3.0 is NOT commercially usable; use only original
+  line-art interpretation of the style. (5) Damascus steel — Reibold et al. 2006 *Nature*
+  multi-wall carbon nanotubes in medieval blade; wavy damask pattern + caption; original
+  schematic only, no Nature micrograph. Recommended launch: Antikythera (CC BY 4.0
+  source) then Roman concrete (label format, zero illustration cost).
+
 Completed concepts, theme analyses, and scripts. Newest at top. One entry per
 completed task. Agents must read this in full before queuing new work, to avoid
 re-doing finished concepts.

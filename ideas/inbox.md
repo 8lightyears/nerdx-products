@@ -56,18 +56,12 @@ line or two; the detail belongs in the theme/design files.
 <!-- Robert Fludd macrocosm diagram struck 2026-06-25 -->
 
 ### Non-trivial historical curiosities
-- [ ] One-story-per-shirt obscure facts (e.g. silphium; ancient dated artefacts).
-- [ ] Antikythera mechanism — oldest known analogue computer (~100 BC), diagram of its gear train; PD reconstructions available. (agent-proposed)
-- [ ] Roman concrete recipe — pozzolan + seawater = stronger-than-modern concrete; recipe as a shirt; cite Masic et al. 2023, Science. (agent-proposed)
-- [ ] Voynich manuscript — indecipherable illustrated 15th-c. manuscript; full manuscript is PD (Yale Beinecke Rare Book Library, CC BY-NC 3.0 for Yale scans); striking page as print. (agent-proposed)
-- [ ] Damascus steel — wootz steel pattern; cite Reibold et al. 2006 (Nature) on carbon nanotubes in the microstructure. (agent-proposed)
+<!-- Non-trivial historical curiosities section struck 2026-06-25 — covered by themes/historical-curiosities.md -->
+<!-- Silphium, Antikythera, Roman concrete, Voynich, Damascus steel struck 2026-06-25 -->
 
 ### "History of dreams"
-- [ ] Dreams of robots (Mechanical Turk); dreams of immortality (philosopher's
-      stone); dreams fulfilled (flight; lead into gold).
-- [ ] Dreams of talking to the dead — Victorian-era "electrical séances"; newspapers reported the telegraph as a channel to the spirit world. (agent-proposed)
-- [ ] Dreams of understanding everything — Newton's Principia → Einstein's Relativity → Quantum Mechanics → Grand Unified Theory; shown as a series of "theory of everything" attempts. (agent-proposed)
-- [ ] Dreams of unlimited energy — perpetual motion machines (Bessler's wheel, overbalanced wheel); beautiful illustrations from 18th-c. pamphlets, PD. (agent-proposed)
+<!-- History of dreams section struck 2026-06-25 — covered by themes/history-of-dreams.md -->
+<!-- Mechanical Turk, Victorian séances, Theory of everything, Perpetual motion struck 2026-06-25 -->
 
 ### Beyond t-shirts
 - [ ] Collectable series for mugs/prints — planets / dwarf planets / eras of

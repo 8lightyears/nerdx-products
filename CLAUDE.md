@@ -155,3 +155,5 @@ plain English.
 
 ## Agent notes
 <!-- Agents append discoveries and observations here. Owner promotes important ones to main sections during daily review. -->
+
+- **Environment.** The owner works locally on **Windows**; autonomous agent and CI sessions run on **Linux**. Anything platform-specific — scripts, file paths, line endings, native runtimes — must work on both, and a green Linux run does not prove it works on the owner's Windows machine. Never pin a script or build to a single host OS.

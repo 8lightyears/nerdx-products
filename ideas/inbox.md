@@ -41,11 +41,12 @@ line or two; the detail belongs in the theme/design files.
 - [ ] Sci-fi alien-species gallery as a reference pool (check each license).
 
 ### Patent drawings
-- [ ] Old invention patent drawings — clean line art as shirt graphics.
-- [ ] Tesla polyphase AC motor, US Patent 381,968 (1888) — already PD; LOC has the original drawing. (agent-proposed)
-- [ ] Wright brothers flying machine, US Patent 821,393 (1906) — PD; iconic for "they built this in a bike shop." (agent-proposed)
-- [ ] Alexander Graham Bell telephone, US Patent 174,465 (1876) — PD; first telephone diagram. (agent-proposed)
-- [ ] Babbage's Difference Engine — illustrated plates from Babbage's 1822–1834 publications, PD. (agent-proposed)
+<!-- Patent drawings section struck 2026-06-25 — covered by themes/patent-drawings.md -->
+<!-- Old invention drawings struck 2026-06-25 -->
+<!-- Tesla polyphase AC motor struck 2026-06-25 -->
+<!-- Wright brothers flying machine struck 2026-06-25 -->
+<!-- Alexander Graham Bell telephone struck 2026-06-25 -->
+<!-- Babbage's Difference Engine struck 2026-06-25 -->
 
 ### Alchemy
 - [ ] Alchemical symbols/imagery — old PD plates, or AI prompts; record licenses.
@@ -73,11 +74,12 @@ line or two; the detail belongs in the theme/design files.
 - [ ] (Later) 3D-printable Mandelbulb object.
 
 ### Thought experiments (agent-proposed group)
-- [ ] Schrödinger's cat — cat in box, wavefunction diagram, "ALIVE / DEAD" label; instantly recognisable physics image. (agent-proposed)
-- [ ] Maxwell's demon — sorting fast/slow molecules between two chambers; demonstrates the entropy–information link. (agent-proposed)
-- [ ] Einstein's elevator — equivalence principle illustrated (man in closed elevator = man in gravitational field). (agent-proposed)
-- [ ] Laplace's demon — "An intellect which at a certain moment knew all forces…" quote + clockwork universe diagram. (agent-proposed)
-- [ ] Fermi paradox — "Where is everybody?" on a star field; cite Fermi 1950 Los Alamos lunch; no spacecraft visible. (agent-proposed)
+<!-- Thought experiments section struck 2026-06-25 — covered by themes/thought-experiments.md -->
+<!-- Schrödinger's cat struck 2026-06-25 -->
+<!-- Maxwell's demon struck 2026-06-25 -->
+<!-- Einstein's elevator struck 2026-06-25 -->
+<!-- Laplace's demon struck 2026-06-25 -->
+<!-- Fermi paradox struck 2026-06-25 -->
 
 ### Logic and computation (agent-proposed group)
 - [ ] Turing machine diagram — tape, head, state table; caption "Universal Computation, 1936." PD diagram derivable from Turing's original paper. (agent-proposed)

@@ -4,6 +4,37 @@ Completed concepts, theme analyses, and scripts. Newest at top. One entry per
 completed task. Agents must read this in full before queuing new work, to avoid
 re-doing finished concepts.
 
+## 2026-06-25 — Thought experiments theme group analysis
+
+- `themes/thought-experiments.md`: full theme group analysis for the Thought Experiments
+  family (agent-proposed). Covers five sub-ideas: (1) Schrödinger's cat — wavefunction
+  superposition `|ψ⟩ = (1/√2)(|alive⟩ + |dead⟩)`, original diagram; note that the cat
+  sub-niche is saturated so the differentiator is the equation and serious tone.
+  (2) Maxwell's demon — molecule-sorting imp between hot and cold chambers; broken by
+  Landauer's principle (1961); original diagram. (3) Einstein's elevator — two-panel
+  comparison (acceleration vs. gravity) illustrating the equivalence principle (1907);
+  original diagram. (4) Laplace's demon — clockwork universe diagram + 1814 quote; broken
+  by Heisenberg (1927) and Lorenz (1963); original diagram. (5) Fermi paradox — text-
+  dominant design "WHERE IS EVERYBODY?" on a star field (NASA PD or procedurally
+  generated); cite Jones (1985), LA-10311-MS (US gov work, PD). All concepts PD; all
+  visuals original or NASA PD. Recommended launch: Fermi paradox (lowest art cost,
+  highest visual impact) and Laplace's demon (least crowded niche).
+
+## 2026-06-25 — Patent drawings theme group analysis
+
+- `themes/patent-drawings.md`: full theme group analysis for the Patent Drawings family.
+  Covers five sub-ideas: (1) General concept — old invention drawings as a shirt series
+  (USPTO/Google Patents as source, all PD). (2) Tesla polyphase AC motor, US Patent
+  381,968 (1888) — PD; rotating-field frequency and synchronous-speed equations added;
+  three slogan options. (3) Wright brothers flying machine, US Patent 821,393 (1906) —
+  PD; "They built this in a bicycle shop." (4) Alexander Graham Bell telephone, US Patent
+  174,465 (1876) — PD; 2-hour filing advantage over Gray; two variants (engineering /
+  ironic). (5) Babbage's Difference Engine (1822–1834 publications, PD) — do not use
+  Science Museum photos (CC BY-NC-SA); use only 19th-century originals from Internet
+  Archive. All US patents are US government works, PD on publication. ImageMagick cleanup
+  pipeline documented. Recommended launch: Tesla motor (dense drawing, equation hook,
+  popular STEM figure) then Bell telephone (two-hours story is uniquely compelling).
+
 ## 2026-06-24 — "My wife is a Witch" theme group analysis
 
 - `themes/my-wife-is-a-witch.md`: full theme group analysis for the relationship-humor

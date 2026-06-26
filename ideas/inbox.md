@@ -36,9 +36,9 @@ line or two; the detail belongs in the theme/design files.
 
 <!-- H.G. Wells / W.R. Leigh item covered by themes/public-domain-space.md (2026-06-23) -->
 
-- [ ] Historical depictions of the Pleiades across cultures (seek CC/PD sources).
-- [ ] Speculative-evolution PD illustrations of imagined alien life.
-- [ ] Sci-fi alien-species gallery as a reference pool (check each license).
+<!-- Pleiades cultural depictions struck 2026-06-26 — covered by themes/public-domain-space.md §5 -->
+<!-- Speculative-evolution PD illustrations struck 2026-06-26 — covered by themes/public-domain-space.md §6 -->
+<!-- Sci-fi alien-species gallery struck 2026-06-26 — covered by themes/public-domain-space.md §7 -->
 
 ### Patent drawings
 <!-- Patent drawings section struck 2026-06-25 — covered by themes/patent-drawings.md -->
@@ -64,8 +64,7 @@ line or two; the detail belongs in the theme/design files.
 <!-- Mechanical Turk, Victorian séances, Theory of everything, Perpetual motion struck 2026-06-25 -->
 
 ### Beyond t-shirts
-- [ ] Collectable series for mugs/prints — planets / dwarf planets / eras of
-      Earth.
+<!-- Collectable series struck 2026-06-26 — covered by themes/collectables.md -->
 - [ ] (Later) 3D-printable Mandelbulb object.
 
 ### Thought experiments (agent-proposed group)

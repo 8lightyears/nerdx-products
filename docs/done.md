@@ -1,5 +1,39 @@
 # Done log
 
+## 2026-06-26 — Collectable series theme group analysis
+
+- `themes/collectables.md`: full theme group analysis for collectable mug/print sets.
+  Three series: (1) Planets of the Solar System — 8 mugs/prints using NASA mission
+  images (PD — US government works; Cassini, Voyager, MRO, MESSENGER, New Horizons,
+  Apollo 17); data strip per planet; copy lines "The Solar System — collected." /
+  "Eight worlds. One shelf." (2) Dwarf Planets — 5 pieces for Ceres (Dawn), Pluto
+  (New Horizons), Eris/Haumea/Makemake (Hubble); Pluto "Demoted, not forgotten."
+  standalone shirt also viable; original illustrations for the three without close-
+  approach images. (3) Geological Eras of Earth — eight-chapter set (Hadean through
+  Quaternary); PD sources: Walcott Burgess Shale plates (Smithsonian 1909–12), Marsh
+  USGS palaeontology plates (1877–93, US gov PD), Haeckel *Kunstformen der Natur*
+  (1904, pre-1928), Joseph Smit / Lydekker *Royal Natural History* (1893–96, pre-1928);
+  Hadean and Proterozoic require 2 original digital paintings (no PD source possible);
+  copy line "Earth — all previous versions." / "4.5 billion years. 8 chapters."
+  USGS geological time scale diagrams (US gov PD). All license notes included.
+
+## 2026-06-26 — Public-domain space theme extended
+
+- `themes/public-domain-space.md`: added sections 5, 6, and 7 to the existing file.
+  Section 5 — Pleiades cultural depictions: four PD star atlas sources (Uranometria
+  Tab. 10, Johann Bayer 1603, Augsburg — Internet Archive; Urania's Mirror Taurus card,
+  Sidney Hall/Samuel Leigh 1824 — LOC item 2013645402; Flammarion *Astronomie Populaire*
+  1880 — Internet Archive; Heidelberg Observatory astrophotographs 1897–1910 — pre-1928).
+  Section 6 — Speculative-evolution PD illustrations: (a) Henrique Alvim Corrêa *La
+  Guerre des Mondes* Brussels 1906 (~130 plates — tripod heat-rays, Martian body,
+  burning London; US PD pre-1928, EU PD life+70=1980; Wells personally approved);
+  (b) Flammarion *Les Terres du Ciel* Paris 1884 (imaginative alien landscapes; Internet
+  Archive; medium t-shirt potential, best as background pattern). Section 7 — Frank R.
+  Paul *Amazing Stories* Vol. 1 (Apr 1926–Mar 1927) and Vol. 2 No. 1 (Apr 1927): pre-1928,
+  no renewal confirmed; alien covers for Oct 1926 (alien city), Jan 1927 (ice planet),
+  Mar 1927 (humanoid aliens); copy "The future, as imagined in 1926"; explicit warning:
+  issues from May 1927 onward require individual copyright renewal research.
+
 ## 2026-06-25 — History of dreams theme group analysis
 
 - `themes/history-of-dreams.md`: full theme group analysis for the History of Dreams

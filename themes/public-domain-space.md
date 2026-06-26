@@ -150,6 +150,159 @@ confirmed public domain by LOC archivists before digitisation.
 
 ---
 
+### 5. Pleiades cultural depictions — star atlas plates
+
+**Why Pleiades:** The Pleiades (M45) are the most culturally significant star cluster in
+human history — named in Homer's *Iliad* and *Works and Days* (c. 700 BCE), referenced in
+the Bible (Job 38:31), charted in Japanese classical literature as *Subaru* (昴, Sei
+Shōnagon, c. 1002 CE), central to Māori (*Matariki*) and Aboriginal Australian sky lore.
+No single image captures "the Pleiades" across all traditions; the strength is the idea,
+not one illustration.
+
+**PD star atlas sources showing the Pleiades:**
+
+| Source | Date | Publisher | PD basis | Notes |
+|---|---|---|---|---|
+| *Uranometria*, Tab. 10 (Taurus) | 1603 | Johann Bayer, Augsburg | Pre-1928, ~420 years old | First scientific star atlas; Pleiades labelled with Bayer designations; available Internet Archive |
+| *Urania's Mirror*, Taurus card | 1824 | Sidney Hall / Samuel Leigh, London | Pre-1928 | Colour-printed; each constellation card has pin-holes for backlit viewing; LOC digitised set |
+| *Astronomie Populaire*, engravings | 1880 | Camille Flammarion / Hachette | Pre-1928 | 300+ engravings including Pleiades region with early photography comparison |
+| *Die Pleiaden* photographs (Heidelberg) | 1897–1910 | Königstuhl Observatory | Pre-1928 | Early astrophotography plates showing M45 nebulosity |
+
+**Where to obtain:**
+
+- Uranometria: Internet Archive, https://archive.org/details/uranometriaomniu00baye
+- Urania's Mirror: LOC item 2013645402, https://www.loc.gov/item/2013645402/
+  (full set, high-resolution TIFF; checked 2026-06-26)
+- Flammarion *Astronomie Populaire*: Internet Archive,
+  https://archive.org/details/astronomiepopu00flam (checked 2026-06-26)
+
+**T-shirt potential:** Medium-high. The star atlas aesthetic is striking — Urania's Mirror
+plates combine constellation figures with visible stars in a way that reads immediately as
+"ancient astronomy." Best framing: "Named in Homer, 700 BCE — still visible tonight." The
+Bayer Uranometria plates have a clinical scientific authority that pairs well with a date
+caption.
+
+**Production note:** Urania's Mirror plates can be scanned directly from LOC TIFFs (PD,
+no processing needed beyond contrast adjustment). The constellation-figure engraving for
+Taurus clearly shows the Pleiades cluster as a small star group beside the bull's shoulder.
+
+---
+
+### 6. Speculative-evolution PD illustrations
+
+Beyond the Wells/Leigh 1908 Mars plates (section 1), two more pre-1928 sources offer usable
+speculative-life imagery.
+
+#### 6a. Henrique Alvim Corrêa — *La Guerre des Mondes* (Brussels, 1906)
+
+**PD basis:** Published Brussels 1906 by Louis Vandamme; Corrêa died 1910. Under US law
+(published before 1928), definitively PD. Under EU law (life+70 = 1980), also PD.
+
+Wells personally approved Corrêa's illustrations as the most accurate depiction of his
+Martians. The Belgian edition contains ~130 illustrations across three volumes, including:
+
+- Martian tripod heat-ray machines in action above a burning London
+- Close-up of a Martian body — a large brain with atrophied limbs, exactly as Wells described
+- Humans fleeing; countryside scenes that read as documentary rather than fantasy
+- The Martian in the Thames, dead — a striking and tragic final image
+
+These are darker, more detailed, and more visceral than any contemporary sci-fi illustration.
+
+**Where to obtain:**
+
+- Wikimedia Commons: several plates uploaded under "Alvim Corrêa War of the Worlds"
+  (checked 2026-06-26); quality varies — some plates are high resolution, others are
+  low-resolution scans. The original volumes are rare; a library facsimile is available.
+- Internet Archive has a partial digitisation; the BnF (Bibliothèque nationale de France)
+  holds a physical copy.
+
+**T-shirt potential:** Very high. The tripod-and-burning-city plate is iconic. Caption option:
+"The Martians, 1906" with a small "Approved by H.G. Wells" subline. Darker aesthetic than
+the Wells/Leigh 1908 Cosmopolitan series — targets a different buyer (apocalyptic sci-fi vs.
+naturalistic speculation).
+
+#### 6b. Camille Flammarion — *Les Terres du Ciel* (Paris, 1884)
+
+**PD basis:** Paris, Flammarion (publisher), 1884. Pre-1928.
+
+Flammarion's companion to *Astronomie Populaire* is entirely speculative: imaginative
+landscapes and life forms on Venus, Mars, Jupiter, and various hypothetical planets.
+The illustrations are by anonymous Parisian engravers working from Flammarion's descriptions;
+they have a dreamlike quality distinct from Leigh's naturalistic rendering.
+
+**Where to obtain:**
+
+- Internet Archive: https://archive.org/details/lesterresduciel00flamgoog
+  (full digitisation; checked 2026-06-26)
+
+**T-shirt potential:** Medium. The illustrations are whimsical rather than dramatic; best
+used as a "vintage speculation" sub-line or as background patterns for all-over-print
+designs, not as hero images. The book's title alone (*The Lands of the Sky*) is a usable
+copy line.
+
+#### License note for section 6
+
+| Asset | Published | Creator | Status |
+|---|---|---|---|
+| Corrêa *La Guerre des Mondes* plates | 1906 | Henrique Alvim Corrêa (1850–1910) | US PD (pre-1928); EU PD (death+70) |
+| Flammarion *Les Terres du Ciel* engravings | 1884 | Anonymous engravers | US PD (pre-1928) |
+
+---
+
+### 7. Sci-fi alien-species gallery — early pulp magazines
+
+The first wave of science fiction magazines (1926–1927) produced covers and interior art
+that defined the visual language of aliens for a generation. The most prolific artist was
+Frank R. Paul, a Viennese-trained illustrator who gave Gernsback's magazines their look.
+
+#### Frank R. Paul — *Amazing Stories* (1926–1927)
+
+**PD basis:** *Amazing Stories* Vol. 1 (April 1926 through March 1927) and Vol. 2 No. 1
+(April 1927) — published before 1 January 1928, definitively PD in the US. The magazine
+did not renew these early copyrights. Issues from 1928 onward require individual renewal
+research.
+
+Paul's covers for these issues include:
+
+- **April 1926 (Vol. 1, No. 1)**: H.G. Wells's *Off on a Comet* retelling — elongated alien
+  figures on a comet surface; deep space background.
+- **July 1926**: Jules Verne moon-rocket; dramatic space landscape.
+- **October 1926**: Alien city scene — baroque architecture on an alien world; first "alien
+  civilisation" cover in US pulp history.
+- **January 1927**: Giant alien creatures on what appears to be an ice planet.
+- **March 1927**: Explicit alien-life cover — humanoid figures with non-human proportions.
+
+Interior illustrations (small, black-and-white) show aliens, spaceships, and future
+technology for stories by Wells, Verne, and Gernsback-era writers.
+
+**Where to obtain:**
+
+- Internet Archive: https://archive.org/search.php?query=amazing+stories+1926
+  (full scans of each 1926 issue; checked 2026-06-26)
+- Pulp covers at pulpcovers.com — useful for resolution comparison before downloading
+  full-issue scans.
+- Fanac.org has high-resolution scans of many Paul covers.
+
+**T-shirt potential:** Very high. Paul's alien covers read as both nostalgic and futuristic.
+Best copy line: "The future, as imagined in 1926." The colour printing of 1926 magazine
+covers is limited (2–3 colours + black) but that constraint gives them a distinctive look
+that works well on dark shirts with a retro-science-fiction aesthetic.
+
+**Production note:** Magazine covers are the highest-value assets — full-colour, large,
+designed to catch the eye. Interior B&W illustrations are secondary. Scan quality from
+Internet Archive varies: some issues have high-resolution colour scans suitable for print,
+others are low-resolution greyscale.
+
+#### License note for section 7
+
+| Asset | Published | Creator | Status |
+|---|---|---|---|
+| *Amazing Stories* Vol. 1 covers and interior art | Apr 1926 – Mar 1927 | Frank R. Paul (1884–1963) | US PD (pre-1928, no renewal) |
+| *Amazing Stories* Vol. 2 No. 1 | Apr 1927 | Frank R. Paul | US PD (pre-1928, no renewal) |
+| Issues from May 1927 onward | 1927+ | various | Renewal research required — do not assume PD |
+
+---
+
 ## Visual direction
 
 - **Dark shirt default:** these images were made before full-colour printing. Inverting their

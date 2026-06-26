@@ -77,11 +77,12 @@ line or two; the detail belongs in the theme/design files.
 <!-- Fermi paradox struck 2026-06-25 -->
 
 ### Logic and computation (agent-proposed group)
-- [ ] Turing machine diagram — tape, head, state table; caption "Universal Computation, 1936." PD diagram derivable from Turing's original paper. (agent-proposed)
-- [ ] Halting problem — illustrated as code that calls itself and never resolves; "Undecidable since 1936." (agent-proposed)
-- [ ] Gödel's incompleteness — "This statement is true but unprovable" self-referential loop diagram; cite Gödel 1931. (agent-proposed)
-- [ ] P ≠ NP (unresolved) — shirt: "P ≠ NP" with Clay Millennium Prize badge; conversation-starter with CS people. (agent-proposed)
-- [ ] Church-Turing thesis — lambda calculus λ alongside Turing machine tape; two routes to the same destination. (agent-proposed)
+<!-- Logic and computation section struck 2026-06-26 — covered by themes/logic-and-computation.md -->
+<!-- Turing machine struck 2026-06-26 -->
+<!-- Halting problem struck 2026-06-26 -->
+<!-- Gödel's incompleteness struck 2026-06-26 -->
+<!-- P ≠ NP struck 2026-06-26 -->
+<!-- Church-Turing thesis struck 2026-06-26 -->
 
 ### Dead and defunct scientific theories (agent-proposed group)
 <!-- Dead theories section struck 2026-06-25 — covered by themes/dead-theories.md -->
@@ -92,10 +93,11 @@ line or two; the detail belongs in the theme/design files.
 <!-- Spontaneous generation struck 2026-06-25 -->
 
 ### Space exploration history (agent-proposed group)
-- [ ] Tsiolkovsky rocket equation — Δv = ve · ln(m0/mf); "The Earth is the cradle of humanity, but one cannot live in the cradle forever." (agent-proposed)
-- [ ] Sputnik diagram — sphere with four antennas; "October 4, 1957 — the sky changed." Sputnik itself is PD. (agent-proposed)
-- [ ] Voyager Golden Record — diagram of the record's cover encoding (pulsar map, hydrogen transition, human figures); PD NASA image. (agent-proposed)
-- [ ] Moon landing trajectory — Earth–Moon transit arc with burn labels; Apollo mission profile. (agent-proposed)
+<!-- Space exploration history section struck 2026-06-26 — covered by themes/space-exploration-history.md -->
+<!-- Tsiolkovsky rocket equation struck 2026-06-26 -->
+<!-- Sputnik diagram struck 2026-06-26 -->
+<!-- Voyager Golden Record struck 2026-06-26 -->
+<!-- Moon landing trajectory struck 2026-06-26 -->
 
 ### Mathematical structures (agent-proposed group)
 Visual mathematics that doubles as wall art or shirt design.

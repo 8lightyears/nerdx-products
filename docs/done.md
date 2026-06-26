@@ -1,5 +1,44 @@
 # Done log
 
+## 2026-06-26 — Space exploration history theme group analysis
+
+- `themes/space-exploration-history.md`: full theme group analysis for the Space
+  Exploration History family (agent-proposed). Covers four sub-ideas: (1) Tsiolkovsky
+  rocket equation (1903) — Δv = v_e · ln(m₀/m_f); "The Earth is the cradle of
+  humanity, but one cannot live in the cradle forever." (Tsiolkovsky letter to
+  Vorobiev, 1911, PD); equation PD mathematical fact; original Matplotlib arc diagram.
+  (2) Sputnik (1957) — original schematic of PS-1: 58.5 cm aluminium sphere, four
+  antennas, 83.6 kg, 96.2-minute orbit; "October 4, 1957 — the sky changed"; Soviet
+  technical specs are public knowledge; Matplotlib ~20-line diagram. (3) Voyager
+  Golden Record (1977) — pulsar map (14 radial lines, binary distances), hydrogen
+  21-cm hyperfine transition, human silhouettes; NASA PIA01481 PD (US gov work);
+  recreating from scientific content avoids any Lomberg artwork attribution issues.
+  (4) Apollo lunar trajectory (1969) — TLI → coast → LOI → PDI → TEI phases;
+  from NASA Apollo 11 Mission Report MSC-00171 (PD US gov); "July 20, 1969 —
+  1,079,840 km."; Matplotlib Bezier arc ~30 lines. Recommended launch: Tsiolkovsky
+  → Voyager → Sputnik → Apollo. All inbox items struck.
+
+## 2026-06-26 — Logic and computation theme group analysis
+
+- `themes/logic-and-computation.md`: full theme group analysis for the Logic and
+  Computation family (agent-proposed). Covers five sub-ideas: (1) Turing machine
+  (1936) — tape + read-write head + state table diagram; "Universal Computation,
+  1936."; source Turing 1937 PLMS paper (EU PD 2025, US PD status uncertain but
+  concept uncopyrightable); Matplotlib tape + table. (2) Halting problem (1936) —
+  pseudocode paradox: `if halts(D, D): loop_forever()`; "Undecidable since 1936.";
+  original diagram or `eq_render.py` monospace block. (3) Gödel's incompleteness
+  (1931) — "This statement cannot be proved in this system." self-referential
+  typography; "True but unprovable, 1931."; Gödel died 1978 (EU PD 2049) — use
+  the concept (mathematical fact) not translated text; highest viral potential of the
+  group; zero illustration cost for the typography-only version. (4) P ≠ NP (1971,
+  unsolved) — bold "P ≠ NP" + "$1,000,000 prize unclaimed" badge (original design,
+  not CMI logo which is trademarked); Cook 1971 STOC paper in copyright but
+  conjecture is PD mathematical fact. (5) Church-Turing thesis (1936) — lambda
+  symbol λ alongside a Turing tape, "≡", "Two routes, one destination."; Church
+  1936 *American Journal of Mathematics* + Turing 1937 same paper. Recommended
+  launch: Gödel → P≠NP → Turing machine → Halting problem → Church-Turing. All
+  inbox items struck.
+
 ## 2026-06-25 — History of dreams theme group analysis
 
 - `themes/history-of-dreams.md`: full theme group analysis for the History of Dreams

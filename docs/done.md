@@ -1,5 +1,41 @@
 # Done log
 
+## 2026-06-27 — Vesalius anatomy theme analysis + design brief; Philosophy theme analysis
+
+- `themes/vesalius-anatomy.md`: full Human Anatomy / Vesalius theme group analysis — five
+  sub-ideas: (1) Muscle Man series — ecorché figures posed as classical statues in Italian
+  landscapes; Book II plates 3–14; Wellcome Collection CC BY 4.0 source; slogans "Every
+  muscle, accounted for. Basel, 1543." and "Built like a Renaissance man."; ImageMagick
+  contrast/invert pipeline. (2) Skeleton in a landscape — contemplative skeleton with shovel
+  in graveyard; "Homo bulla est."; strong poster/print candidate. (3) "Galen Was Wrong" —
+  typography-only two-column shirt listing specific Galen errors vs. Vesalius corrections
+  (five-lobed liver → two; solid cardiac septum; single jawbone); zero illustration cost;
+  slogan "1,300 years of authority. Overturned by looking." (4) Brain and ventricle plates
+  from Book VII — "The Soul was here." / "Ventriculus quartus, 1543. No soul found."; more
+  niche, better as a poster. (5) Frontispiece dissection theatre — "The first anatomy
+  theatre. Padua, 1543."; complex composition, A2/A3 print only. Launch order: muscle man →
+  Galen-corrections shirt → skeleton poster → brain ventricle. License: Wellcome Collection
+  CC BY 4.0 (full commercial use, attribution required); EB Garamond SIL OFL 1.1.
+- `designs/vesalius-muscle-man/brief.md`: concrete design brief for the launch product —
+  Vesalius Book II plate 3 muscle-man figure on dark shirt; three copy options (minimal
+  "Basel, 1543." / correction-story / anatomical-label annotation); ImageMagick processing
+  pipeline documented; POD production steps listed.
+
+- `themes/philosophy.md`: full Philosophy theme group analysis — six sub-ideas: (1) Cogito
+  ergo sum (Descartes 1637, PD) — typography-only Latin or English; "I overthink, therefore
+  I am" funny original variant; EB Garamond. (2) Plato's cave allegory (c. 375 BC, PD) —
+  original side-view diagram (fire, object, shadow, prisoners); Matplotlib ~60 lines;
+  slogan "You are looking at the shadows." (3) Zeno's paradoxes (c. 450 BC, PD) — Achilles
+  and tortoise positions on a Matplotlib timeline; geometric series convergence visible;
+  "Achilles never catches the tortoise. (He does.)"; resolved by Cauchy 1821. (4) Trolley
+  problem (Foot 1967 — concept PD, cite only) — top-down track schematic; two-shirt set
+  ("Pull the lever" / "Don't pull the lever") creates social engagement; "73% pull the
+  lever" stats variant (Awad et al. 2018 Nature). (5) Occam's Razor (Ockham c. 1320, PD) —
+  "Entia non sunt multiplicanda praeter necessitatem." in period type; funny modern variant
+  "You probably just forgot to charge it." (6) Wittgenstein stretch goal — Tractatus §5.6
+  in original German, for a logic/language sub-line. Launch order: trolley problem →
+  cogito → Zeno → Plato's cave → Occam's Razor.
+
 ## 2026-06-27 — Fermi paradox + Gödel's incompleteness design briefs
 
 - `designs/fermi-paradox/brief.md`: concrete design brief for the Fermi Paradox shirt/poster.

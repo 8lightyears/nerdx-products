@@ -1,5 +1,32 @@
 # Done log
 
+## 2026-06-27 — Acoustics / Resonance theme analysis + Chladni script; P≠NP design brief
+
+- `themes/acoustics-resonance.md`: full Acoustics / Resonance theme group analysis — five
+  sub-ideas: (1) Chladni figures (1787, PD) — sand on vibrating plate → nodal-line patterns;
+  script-generated from membrane eigenmodes u(x,y) = sin(mπx)·sin(nπy); slogan "Vibration
+  made visible. Chladni, 1787."; Napoleon I saw a demonstration in 1808; LAUNCH CANDIDATE.
+  (2) Harmonic series on a string (Pythagoras c. 550 BC → Mersenne 1636, both PD) — stacked
+  sine-wave diagram, labelled n=1…5; all Matplotlib. (3) Schumann resonances (1952) — Earth's
+  electromagnetic cavity resonates at 7.83 Hz and harmonics; f_n ≈ 7.83·n Hz; slogan "The
+  Earth hums at 7.83 Hz." (4) Tacoma Narrows collapse (1940) — aeroelastic flutter, not simple
+  resonance; text-only or original diagram only (newsreel footage has complex copyright). (5)
+  Fourier series acoustic framing (1822, PD) — any waveform = sum of sines; cross-reference to
+  existing designs/body-shaped-curve/brief.md.
+- `scripts/chladni_render.py`: 65-line NumPy + Matplotlib script — renders contour of
+  sin(m·π·x)·sin(n·π·y) = 0 at 3300×3300 px (300 DPI, POD-ready); mode pair (m,n) via
+  CLI args; dark/light toggle; example output: mode (2,3) gives 6-region asymmetric pattern.
+
+- `designs/p-not-equal-np/brief.md`: concrete design brief for the P≠NP shirt — concept:
+  Cook's 1971 conjecture that P ≠ NP (in copyright, but conjecture is uncopyrightable fact);
+  Clay Millennium Prize $1,000,000, unclaimed as of 2026. Four slogan options (A — minimal
+  "Unsolved since 1971"; B — prize hook "One million dollars. Still nobody knows."; C —
+  explanatory; D — badge variant). Three layout options (typography-only, two-box P/NP diagram,
+  original prize badge). Quick Matplotlib proof-of-concept code included. Explicit constraint:
+  do NOT use CMI logo or wordmark — design original badge shape (hexagon or seal). Typeface:
+  JetBrains Mono or IBM Plex Mono (SIL OFL 1.1). Recommended: launch Option 1 (typography
+  only) immediately, add badge variant as follow-up.
+
 ## 2026-06-27 — Vesalius anatomy theme analysis + design brief; Philosophy theme analysis
 
 - `themes/vesalius-anatomy.md`: full Human Anatomy / Vesalius theme group analysis — five

@@ -18,6 +18,4 @@ Active tasks only. Maintained by agents. Owner reads but does not edit — use
 
 ### Next agent-proposed design briefs
 
-- [ ] Design brief: Chladni figures — `themes/acoustics-resonance.md` analysis; procedural SciPy eigenmodes
-- [ ] Design brief: P ≠ NP — "$1M unclaimed" badge; from `themes/logic-and-computation.md` §4
 - [ ] Design brief: Laplace's demon — clockwork diagram + 1814 quote; from `themes/thought-experiments.md` §4

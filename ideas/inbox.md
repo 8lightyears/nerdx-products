@@ -74,17 +74,8 @@ direction in the linked theme file; the brief turns that into a production docum
 
 ### New theme groups — agent-proposed 2026-06-27
 
-- [ ] **Human anatomy / Vesalius theme** — Andreas Vesalius *De Humani Corporis Fabrica*
-      (1543, PD worldwide). Spectacular muscle-man skeletons and anatomical woodcuts.
-      "Built like a Renaissance man." Possible slogans: "Every muscle, accounted for.
-      Basel, 1543." Available in high resolution via Wellcome Collection (CC BY 4.0) and
-      Internet Archive. No redrawing required for the PD plates. (agent-proposed, 2026-06-27)
-
-- [ ] **Philosophy theme group** — Descartes "cogito ergo sum" (1637, PD), Plato's cave
-      allegory (PD), Zeno's paradoxes (Achilles and the tortoise), trolley problem (Foot
-      1967 — concept PD, cite only). Original diagrams for each; typography-only option
-      for Descartes. "I think therefore I am." / "Achilles never catches the tortoise."
-      (agent-proposed, 2026-06-27)
+<!-- Vesalius anatomy struck 2026-06-27 — covered by themes/vesalius-anatomy.md + designs/vesalius-muscle-man/brief.md -->
+<!-- Philosophy theme group struck 2026-06-27 — covered by themes/philosophy.md -->
 
 - [ ] **Acoustics / resonance — Chladni figures** (1787). Ernst Chladni sprinkled sand on
       vibrating metal plates and bowed them: the sand migrated to nodal lines, forming

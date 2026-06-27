@@ -100,14 +100,13 @@ line or two; the detail belongs in the theme/design files.
 <!-- Moon landing trajectory struck 2026-06-26 -->
 
 ### Mathematical structures (agent-proposed group)
-Visual mathematics that doubles as wall art or shirt design.
-- [ ] Penrose tiling — aperiodic tiling pattern (P2 kite-and-dart or P3 rhombus); no translational symmetry, yet covers the plane. Visually striking; no copyright claim on the tiling itself. (agent-proposed)
-- [ ] Knot theory diagrams — trefoil knot, figure-eight knot, unknot; "Knots have been classified since the 1860s" as a subtitle. (agent-proposed)
-- [ ] Möbius strip / Klein bottle — classic non-orientable surfaces; can be rendered as a clean line-art shirt. (agent-proposed)
-- [ ] Hypercube (tesseract) projection — 4D hypercube projected to 2D; clean wireframe; "The fourth dimension, flattened for your convenience." (agent-proposed)
-- [ ] Ulam spiral — primes arranged in a spiral show diagonal lines; beautiful and mysterious; cite Ulam 1963. (agent-proposed)
+<!-- Mathematical structures section struck 2026-06-27 — covered by themes/mathematical-structures.md -->
+<!-- Penrose tiling struck 2026-06-27 -->
+<!-- Knot theory diagrams struck 2026-06-27 -->
+<!-- Möbius strip / Klein bottle struck 2026-06-27 -->
+<!-- Hypercube (tesseract) projection struck 2026-06-27 -->
+<!-- Ulam spiral struck 2026-06-27 -->
 
 ### Adjacent — "interesting maps"
-- [ ] Curiosity maps as products: castles of Europe; cuisines; film locations;
-      mysterious places; technology monuments (aircraft boneyards, steam
-      locomotives, mines); speculated location of Atlantis.
+<!-- Interesting maps section struck 2026-06-27 — covered by themes/interesting-maps.md -->
+<!-- Castles, cuisines, film locations, mysterious places, technology monuments struck 2026-06-27 -->

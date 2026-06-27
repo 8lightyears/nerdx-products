@@ -1,5 +1,43 @@
 # Done log
 
+## 2026-06-27 — Interesting maps theme group analysis
+
+- `themes/interesting-maps.md`: full theme group analysis for the Interesting Maps
+  product family. Covers five sub-ideas: (1) Castles of Europe — OpenStreetMap ODbL
+  `historic=castle` data for a dot-density map; all of Europe in one high-density
+  print; recommended title "Every Recorded Castle in Europe"; attribution in border.
+  (2) World Cuisines Map — Natural Earth PD basemap + original cuisine-region annotation;
+  Michelin distribution variant (no Michelin branding); differentiated by "where
+  cuisines begin and end" framing. (3) Film Locations — real geographic facts only;
+  LOTR New Zealand variant highest potential (150+ documented filming locations, all
+  public facts); trademark caution: use real place names only. (4) Mysterious Places —
+  deadpan cartographic treatment of Nazca Lines, Stonehenge, Bermuda Triangle (annotated
+  "Not actually more dangerous" citing Lloyd's of London underwriting data), Crooked
+  Forest, and 6 others; all Natural Earth PD basemap + original annotation layer.
+  (5) Technology Monuments — AMARG boneyard (3,100+ aircraft), steam depots, open-pit
+  mines, nuclear test sites, particle accelerators; all PD data (US gov, USGS, CERN
+  institutional); recommended title "The Monuments We Actually Built"; zero competition
+  in this exact framing. Launch order: Technology monuments → Mysterious places →
+  Castles of Europe. All inbox items struck.
+
+## 2026-06-27 — Mathematical structures theme group analysis
+
+- `themes/mathematical-structures.md`: full theme group analysis for the Mathematical
+  Structures family (agent-proposed). Covers five sub-ideas: (1) Penrose tiling (1974) —
+  P3 rhombus aperiodic tiling; de Bruijn pentagrid method in ~50 lines of Python;
+  no copyright on the mathematical concept; slogan "Aperiodic, 1974." (2) Knot theory
+  diagrams — trefoil (3₁), figure-eight (4₁), unknot (0₁); parametric crossing diagrams
+  in Matplotlib ~40 lines; history from Tait (1876) and Kelvin's vortex-atom hypothesis
+  (1867) both PD. (3) Möbius strip / Klein bottle — parametric surface plots ~25–35
+  lines; Möbius (1858/1868 PD), Klein (1882 PD); recommended launch piece is the
+  Möbius strip; slogan "One side. No boundary." (4) Tesseract / hypercube projection —
+  Schlegel diagram from 16 ±1 vertices, 4D→3D→2D projection; Hinton 1888 (PD);
+  slogan "The fourth dimension, flattened for your convenience." — avoid any Dalí
+  painting reference (copyrighted). (5) Ulam spiral — primes in a square spiral;
+  Ulam, Stein, Wells LA-3966 1964 (US gov, PD); ~25 lines using numpy sieve; slogan
+  "Stanislaw Ulam, bored in a meeting, 1963." Launch order: Ulam spiral →
+  tesseract → Penrose tiling → knot theory → Möbius strip. All inbox items struck.
+
 ## 2026-06-26 — Space exploration history theme group analysis
 
 - `themes/space-exploration-history.md`: full theme group analysis for the Space

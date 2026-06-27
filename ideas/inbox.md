@@ -77,11 +77,7 @@ direction in the linked theme file; the brief turns that into a production docum
 <!-- Vesalius anatomy struck 2026-06-27 — covered by themes/vesalius-anatomy.md + designs/vesalius-muscle-man/brief.md -->
 <!-- Philosophy theme group struck 2026-06-27 — covered by themes/philosophy.md -->
 
-- [ ] **Acoustics / resonance — Chladni figures** (1787). Ernst Chladni sprinkled sand on
-      vibrating metal plates and bowed them: the sand migrated to nodal lines, forming
-      stunning geometric patterns. Published in *Entdeckungen über die Theorie des Klanges*
-      (Leipzig, 1787, PD). Reproducible procedurally with SciPy membrane eigenmodes. Slogan:
-      "Vibration made visible. Chladni, 1787." (agent-proposed, 2026-06-27)
+<!-- Acoustics / resonance — Chladni figures struck 2026-06-27 — covered by themes/acoustics-resonance.md + scripts/chladni_render.py -->
 
 ### Thought experiments (agent-proposed group)
 <!-- Thought experiments section struck 2026-06-25 — covered by themes/thought-experiments.md -->

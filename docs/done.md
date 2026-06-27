@@ -1,5 +1,28 @@
 # Done log
 
+## 2026-06-27 — Fermi paradox + Gödel's incompleteness design briefs
+
+- `designs/fermi-paradox/brief.md`: concrete design brief for the Fermi Paradox shirt/poster.
+  Primary product: "WHERE IS EVERYBODY?" text-dominant on a procedural deep-space star field
+  (Matplotlib, `generate/star_field.py`) or NASA Hubble PD image. Three copy options: stark
+  one-liner (shirt), annotated data table (poster — Milky Way ~2×10¹¹ stars, detections: 0),
+  attribution variant (mug). Proof-of-concept star field generator script included. Source:
+  Jones (1985) LA-10311-MS (US gov PD). All original; NASA imagery PD.
+- `designs/goedel-incompleteness/brief.md`: concrete design brief for the Gödel's
+  Incompleteness shirt/poster. Four copy options: typography-only "This statement has no proof
+  in this system. True. Unprovable. 1931." (highest viral potential, zero art cost); proof-
+  structure diagram variant for poster (two contradiction arrows from the Gödel sentence);
+  meta-label variant; minimal "True but unprovable. Gödel, 1931." mug variant. Uses existing
+  `scripts/eq_render.py` for any mathematical expressions. Mathematical content is PD; English
+  paraphrase is original wording. Sources: Gödel (1931), Monatshefte 38(1), 173–198.
+- `designs/fermi-paradox/generate/star_field.py`: procedural star-field generator — ~3,000
+  scattered stars with power-law brightness + 8 feature stars with Gaussian glow; 3300×3300 px
+  at 300 DPI; optional text overlay commented out. Dependency: matplotlib + numpy.
+- Seeded 5 fresh agent-proposed ideas in `ideas/inbox.md` (Vesalius anatomy theme, Philosophy
+  theme, Chladni figures/acoustics theme, P≠NP brief, Laplace's demon brief).
+- Inbox `[ ]` items (Pleiades/speculative-evolution/sci-fi alien and collectable series) noted
+  as done on pinned branch `claude/friendly-babbage-n8qpqg` pending owner merge; no re-work.
+
 ## 2026-06-27 — Interesting maps theme group analysis
 
 - `themes/interesting-maps.md`: full theme group analysis for the Interesting Maps

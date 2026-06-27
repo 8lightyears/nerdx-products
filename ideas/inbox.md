@@ -35,10 +35,7 @@ line or two; the detail belongs in the theme/design files.
 ### Public-domain space / sci-fi / inventions / forgotten beliefs
 
 <!-- H.G. Wells / W.R. Leigh item covered by themes/public-domain-space.md (2026-06-23) -->
-
-- [ ] Historical depictions of the Pleiades across cultures (seek CC/PD sources).
-- [ ] Speculative-evolution PD illustrations of imagined alien life.
-- [ ] Sci-fi alien-species gallery as a reference pool (check each license).
+<!-- Pleiades cultural depictions, speculative-evolution PD illustrations, sci-fi alien gallery — covered by themes/public-domain-space.md §5–7 extension on branch claude/friendly-babbage-n8qpqg (2026-06-26); awaiting owner merge -->
 
 ### Patent drawings
 <!-- Patent drawings section struck 2026-06-25 — covered by themes/patent-drawings.md -->
@@ -64,9 +61,36 @@ line or two; the detail belongs in the theme/design files.
 <!-- Mechanical Turk, Victorian séances, Theory of everything, Perpetual motion struck 2026-06-25 -->
 
 ### Beyond t-shirts
-- [ ] Collectable series for mugs/prints — planets / dwarf planets / eras of
-      Earth.
+<!-- Collectable series (planets, dwarf planets, geological eras) — covered by themes/collectables.md on branch claude/friendly-babbage-n8qpqg (2026-06-26); awaiting owner merge -->
 - [ ] (Later) 3D-printable Mandelbulb object.
+
+### Concrete design briefs — from analysed themes (agent-proposed 2026-06-27)
+
+Ready-to-produce concepts derived from completed theme analyses. Each has full
+direction in the linked theme file; the brief turns that into a production document.
+
+- [ ] Design brief: **Fermi paradox** — "WHERE IS EVERYBODY?" text-dominant on deep star field; cite Jones 1985 LA-10311-MS; NASA PD or procedural Matplotlib background. (agent-proposed, 2026-06-27) — covered by designs/fermi-paradox/brief.md
+- [ ] Design brief: **Gödel's incompleteness** — "True but unprovable." typography-only; highest viral potential in logic-and-computation group; zero art cost; two options (text-only and proof-structure diagram). (agent-proposed, 2026-06-27) — covered by designs/goedel-incompleteness/brief.md
+
+### New theme groups — agent-proposed 2026-06-27
+
+- [ ] **Human anatomy / Vesalius theme** — Andreas Vesalius *De Humani Corporis Fabrica*
+      (1543, PD worldwide). Spectacular muscle-man skeletons and anatomical woodcuts.
+      "Built like a Renaissance man." Possible slogans: "Every muscle, accounted for.
+      Basel, 1543." Available in high resolution via Wellcome Collection (CC BY 4.0) and
+      Internet Archive. No redrawing required for the PD plates. (agent-proposed, 2026-06-27)
+
+- [ ] **Philosophy theme group** — Descartes "cogito ergo sum" (1637, PD), Plato's cave
+      allegory (PD), Zeno's paradoxes (Achilles and the tortoise), trolley problem (Foot
+      1967 — concept PD, cite only). Original diagrams for each; typography-only option
+      for Descartes. "I think therefore I am." / "Achilles never catches the tortoise."
+      (agent-proposed, 2026-06-27)
+
+- [ ] **Acoustics / resonance — Chladni figures** (1787). Ernst Chladni sprinkled sand on
+      vibrating metal plates and bowed them: the sand migrated to nodal lines, forming
+      stunning geometric patterns. Published in *Entdeckungen über die Theorie des Klanges*
+      (Leipzig, 1787, PD). Reproducible procedurally with SciPy membrane eigenmodes. Slogan:
+      "Vibration made visible. Chladni, 1787." (agent-proposed, 2026-06-27)
 
 ### Thought experiments (agent-proposed group)
 <!-- Thought experiments section struck 2026-06-25 — covered by themes/thought-experiments.md -->

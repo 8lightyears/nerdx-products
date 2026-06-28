@@ -121,3 +121,13 @@ direction in the linked theme file; the brief turns that into a production docum
 ### Adjacent — "interesting maps"
 <!-- Interesting maps section struck 2026-06-27 — covered by themes/interesting-maps.md -->
 <!-- Castles, cuisines, film locations, mysterious places, technology monuments struck 2026-06-27 -->
+
+### Concrete design briefs — round 2 (agent-proposed 2026-06-28)
+
+From already-analysed theme files. Owner picks any to launch next.
+
+- [ ] Design brief: **Tsiolkovsky rocket equation** — Δv = v_e·ln(m₀/m_f) as the centrepiece; "The Earth is the cradle of humanity, but one cannot live in a cradle forever" (Tsiolkovsky, pre-1927 PD quote); minimalist rocket diagram + equation; ideal for space-enthusiast audience. (agent-proposed, 2026-06-28)
+- [ ] Design brief: **Penrose tiling** — aperiodic P3 rhombus pattern, full-shirt or sleeve-width; script-generated from de Bruijn pentagrid; slogan "Aperiodic, 1974."; high visual impact, zero copyright exposure. (agent-proposed, 2026-06-28)
+- [ ] Design brief: **Schrödinger's cat** — two-panel or single shirt "Alive. / Dead. / Both."; quantum state ψ = α|alive⟩ + β|dead⟩; minimal illustration (sealed box + cat silhouette) or typography-only. (agent-proposed, 2026-06-28)
+- [ ] Design brief: **Luminiferous aether** — from `themes/dead-theories.md`; "The medium through which light travels. (It doesn't.)"; Michelson-Morley interferometer diagram (1887, PD); strong "science was wrong" framing. (agent-proposed, 2026-06-28)
+- [ ] Design brief: **Voyager Golden Record** — NASA PD image of the record cover (copper, gold-plated, launched 1977); slogan "Still travelling. (23.5 billion km and counting.)"; zero art cost, all NASA PD. (agent-proposed, 2026-06-28)

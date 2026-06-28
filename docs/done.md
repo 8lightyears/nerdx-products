@@ -1,5 +1,31 @@
 # Done log
 
+## 2026-06-28 — Laplace's demon design brief + Trolley problem design brief
+
+- `designs/laplace-demon/brief.md`: concrete product brief — Laplace's clockwork
+  determinism (1814, PD) and its two failures: Heisenberg uncertainty (1927) and Lorenz
+  chaos / butterfly effect (1963). Three slogan options; recommended: "Laplace's demon.
+  Heisenberg's ghost." Visual: parametric clockwork gear assembly with all-knowing eye at
+  hub; optional back panel with Lorenz attractor + ψ|Ψ⟩. Engraving aesthetic (black ink
+  on cream or cream on black). All content original or PD.
+- `designs/laplace-demon/generate/clockwork.py`: Matplotlib script — 3-gear parametric
+  assembly (involute-approximated teeth, hub spokes, eye with iris/pupil at centre);
+  outputs SVG for vector finishing.
+
+- `designs/trolley-problem/brief.md`: concrete design brief for the two-shirt Trolley
+  Problem set — Shirt A "Pull the lever. (73%)" and Shirt B "Don't pull the lever. (27%)"
+  per Awad et al. 2018 (Nature, 40M responses). Top-down track schematic, junction lever
+  in diverted/straight position, five vs. one stick figures. Three palette options (black
+  on white, chalk on charcoal, blueprint). No copyright exposure — concept PD, artwork
+  original. Expansion variants: mug ("Which mug are you?"), stats poster (A3), three-shirt
+  set with "I'm the trolley." Recommended font: JetBrains Mono SIL OFL 1.1.
+- `designs/trolley-problem/generate/track.py`: Matplotlib SVG generator — parametric
+  dual-rail tracks with cross-ties, Y-junction, lever symbol, stick figures, trolley
+  rectangle; variant A or B via CLI arg; cross-platform (pure Python).
+- Seeded 5 fresh agent-proposed design brief ideas in `ideas/inbox.md`: Tsiolkovsky
+  rocket equation, Penrose tiling, Schrödinger's cat, luminiferous aether, Voyager
+  Golden Record.
+
 ## 2026-06-27 — Acoustics / Resonance theme analysis + Chladni script; P≠NP design brief
 
 - `themes/acoustics-resonance.md`: full Acoustics / Resonance theme group analysis — five

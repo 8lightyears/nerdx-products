@@ -16,6 +16,4 @@ Active tasks only. Maintained by agents. Owner reads but does not edit — use
 
 ## Backlog
 
-### Next agent-proposed design briefs
-
-- [ ] Design brief: Laplace's demon — clockwork diagram + 1814 quote; from `themes/thought-experiments.md` §4
+<!-- Nothing in backlog -->
